@@ -1,0 +1,35 @@
+.title {
+    font-family: georgia;
+    text-align: center;
+    margin: 10px;
+}
+
+.buttoncontainer {
+    text-align: center;
+}
+
+.playbutton {
+    font-family: georgia;
+    text-align: center;
+    border: 0.5px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+    background-color: rgb(212, 202, 202);
+}
+
+.playbutton:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0;
+}
+
+.imagecontainer {
+    margin: 10px;
+    text-align: center;
+}
+
+.image {
+    width: 750px;
+    height: auto;
+}
